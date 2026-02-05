@@ -50,7 +50,7 @@ interface SlideContentProps {
 }
 
 function SlideContent({ slide, isActive, isLoaded }: SlideContentProps) {
-  const baseDelay = isActive ? 0 : 0;
+  const baseDelay = 0;
   
   return (
     <div className="relative z-20 h-full flex items-center">
