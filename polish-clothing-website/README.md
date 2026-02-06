@@ -1,4 +1,12 @@
-# React + TypeScript + Vite
+# Polish Clothing Website
+
+A modern, elegantly animated React + TypeScript + Vite website for a Polish clothing brand.
+
+## Documentation
+
+- 📖 **[ANIMATIONS.md](./ANIMATIONS.md)** - Complete documentation of all animations used in the website
+
+## Tech Stack
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
